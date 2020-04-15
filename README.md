@@ -18,13 +18,13 @@ Each time you have completed a requirement check it off the list. This way it wi
 - [ ] 8. I have explained why is it a problem that needs solving.
 - [ ] 9. I have provided a link (URL) to my deployed app (i.e. website)
 - [ ] 10. I have provided a link to my GitHub repository (repo). I have ensured the repo is accessible by my Educators.
-- [ ] 11. I have a complete description of my marketplace app (website), including:
-        - [ ] 11.1 Purpose  
-        - [ ] 11.2 Functionality / features  
-        - [ ] 11.3 Sitemap  
-        - [ ] 11.4 Screenshots  
-        - [ ] 11.5 Target audience  
-        - [ ] 11.6 Tech stack (e.g. html, css, deployment platform, etc)  
+- [ ] 11. I have a complete description of my marketplace app (website), including:  
+        - 11.1 Purpose  
+        - 11.2 Functionality / features  
+        - 11.3 Sitemap  
+        - 11.4 Screenshots  
+        - 11.5 Target audience  
+        - 11.6 Tech stack (e.g. html, css, deployment platform, etc)  
 
 - [ ] 12. I have provided user stories for my app
 - [ ] 13. I have provided Wire-Frames for my app 
@@ -78,11 +78,11 @@ NB leave the Titles as they are and answer the questions below.
 * User stories are well thought out, relevant, and comprehensively cover the needs of the app
 
 ##### 8. Provide Wireframes for your App.
-![This is an image of your wire frames](This is the relative path to it)
-![This is an image of your wire frames](This is the relative path to it)
-![This is an image of your wire frames](This is the relative path to it)
-![This is an image of your wire frames](This is the relative path to it)
-![This is an image of your wire frames](This is the relative path to it)
+![This is an image of your wire frames](This is the relative path to it)  
+![This is an image of your wire frames](This is the relative path to it)  
+![This is an image of your wire frames](This is the relative path to it)  
+![This is an image of your wire frames](This is the relative path to it)  
+![This is an image of your wire frames](This is the relative path to it)  
 * More than five detailed and well designed wireframes provided, for several different screen sizes (as required for the app)
 
 ##### 9. Describe the way tasks are planned and tracked in your project.
