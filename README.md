@@ -30,7 +30,7 @@ The high level components required for this app are:
 
 <!-- #TODO Doc: Describe usage of S3 Bucket -->
 
-#### Geocoding Services: Google Maps API usage with Geocoder Rails Gem
+#### Geocoding Services: Google Maps API with Geocoder Rails Gem
 
 <!-- #TODO Doc: Describe usage of Google Maps API using Geocoder gem-->
 
