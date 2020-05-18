@@ -10,7 +10,7 @@
 
 ## Documentation
 
-##### 1. Explain the different high-level components (abstractions) in your App
+### 1. Explain the different high-level components (abstractions) in your App
 
 The high level components required for this app are:
 
@@ -24,21 +24,21 @@ The high level components required for this app are:
 - **Searching, sorting and/or filtering capability** based on user profile data and geocoding services. This will enable users find other suitable users within a given physical range
 - **Internal messaging system** to allow users to interact with each other
 
-##### 2. List and describe any 3rd party services
+### 2. List and describe any 3rd party services
 
-###### Image content storage: Amazon S3 Bucket
+#### Image content storage: Amazon S3 Bucket
 
 <!-- #TODO Doc: Describe usage of S3 Bucket -->
 
-###### Geocoding Services: Google Maps API usage with Geocoder Rails Gem
+#### Geocoding Services: Google Maps API usage with Geocoder Rails Gem
 
 <!-- #TODO Doc: Describe usage of Google Maps API using Geocoder gem-->
 
-##### 3.1. Identify the problem you’re trying to solve by building this particular marketplace App
+### 3.1. Identify the problem you’re trying to solve by building this particular marketplace App
 
 The purpose of the hugs marketplace is to enable people who would like a hug to find other people in their area to hug them.
 
-##### 3.2 Why is the problem identified a problem that needs solving?
+### 3.2 Why is the problem identified a problem that needs solving?
 
 Whilst there are a large quantity of online marketplaces for human contact, these are mostly based around contact of a sexual nature. There are few online options for those seeking a consensual yet non-sexually motivated hug.
 
@@ -48,12 +48,12 @@ The constraints to this problem are largely localisation based profile matching,
 
 This is a problem that will provide a unique marketplace opportunity for this to be addressed with a web application.
 
-##### 4. Describe your project’s models in terms of the relationships (active record associations) they have with each other
+### 4. Describe your project’s models in terms of the relationships (active record associations) they have with each other
 
 <!-- #TODO Doc: Complete discussion of the project’s models with an understanding of how its active record associations function -->
 
 
-##### 5. Discuss the database relations to be implemented
+### 5. Discuss the database relations to be implemented
 
 <!-- #TODO Doc: ERD DB Relationship table -->
 ![This is an image of your ERD](This is the relative path to it)
@@ -62,12 +62,12 @@ This is a problem that will provide a unique marketplace opportunity for this to
 * Provides coherent discussion of the database relations, with reference to the ERD
 
 
-##### 6. Provide your database schema design
+### 6. Provide your database schema design
 
 <!-- #TODO ? Doc: DB Schema design (DBeaver output?) -->
 * Flawless, complex, complete, and well thought through ERDs provided
 
-##### 7. Provide User stories for your App
+### 7. Provide User stories for your App
 
 <!-- #TODO Doc: 5 User Stories -->
 ![This is an image of your user stories](This is the relative path to it)
@@ -75,7 +75,7 @@ This is a problem that will provide a unique marketplace opportunity for this to
 * You also just use normal markdown to describe them
 * User stories are well thought out, relevant, and comprehensively cover the needs of the app
 
-##### 8. Provide Wireframes for your App
+### 8. Provide Wireframes for your App
 
 <!-- #TODO -Doc: 5 (min) Wireframes -->
 ![This is an image of your wire frames](This is the relative path to it)  
@@ -86,7 +86,7 @@ This is a problem that will provide a unique marketplace opportunity for this to
 
 * More than five detailed and well designed wireframes provided, for several different screen sizes (as required for the app)
 
-##### 9. Describe the way tasks are planned and tracked in your project
+### 9. Describe the way tasks are planned and tracked in your project
 
 Tasks were planned and managed using a checklist in this README.md file and by code tagging with the source files. A regular review of incomplete items was carried out with a VS Code extension called [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree&ssr=false#overview)
 
@@ -107,7 +107,7 @@ In each of the two examples below, the selected item in the extension's list is 
 
 * Shows significant planning for how tasks are planned and tracked, including a full description of the process and of the tools used
 
-##### 10. ERD provided represents a normalised database model
+### 10. ERD provided represents a normalised database model
 
 <!-- #TODO Doc: ERD DB Model with no duplication and ideal definition of entities-->
 ![This is an image of your ERD](This is the relative path to it)
