@@ -1,7 +1,12 @@
 # "Hugs" Market Place
 
-Link to the deployed app: TBA  
-Link to github repo: https://github.com/evey-pea/hugs.git 
+## External Links
+
+|Description |Link|
+|:---|:---|
+|Link to the deployed app: |TBA  |
+|Link to github repo: |https://github.com/evey-pea/hugs.git |
+|Planning of Build and Assesment Criteria: |[PLANNING.md](https://github.com/evey-pea/rails-template/blob/master/PLANNING.md)|
 
 ## Documentation
 
@@ -59,7 +64,7 @@ This is a problem that will provide a unique marketplace opportunity for this to
 
 ##### 6. Provide your database schema design
 
-<!-- #TODO Doc: DB Schema design -->
+<!-- #TODO ? Doc: DB Schema design (DBeaver output?) -->
 * Flawless, complex, complete, and well thought through ERDs provided
 
 ##### 7. Provide User stories for your App

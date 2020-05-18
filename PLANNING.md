@@ -3,7 +3,7 @@
 Link to the deployed app: TBA  
 Link to github repo: https://github.com/evey-pea/hugs.git 
 
-## Requirement checklist 
+## Assessment Requirement checklist 
 
 Each time you have completed a requirement check it off the list. This way it will be easy for the educators as well as yourselves to track your progress.
 
@@ -41,9 +41,9 @@ NB Slide/Presentation specific requirements
 - [ ] 22. A well planned walkthrough of my app
 - [ ] 23. I have practiced my presentation at least once and it is 5-6 minutes long
 
-## Code specific assessment
+## Code specific Checklist
 
-This section can be deleted from the readme. I have only included it here to draw your attention to it
+This section can be used as a *post-build/deploy checklist* to ensure all details of the assignment requirements have been met.
 
 ##### 11. Model implementation represents a normalised database model
 
