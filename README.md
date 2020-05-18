@@ -125,10 +125,19 @@ This is a problem that will provide a unique marketplace opportunity for this to
 
 Tasks were planned and managed using a checklist in this README.md file and by code tagging with the source files. A regular review of incomplete items was carried out with a VS Code extension called [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree&ssr=false#overview)
 
-***Todo List showing unchecked items from the README.md file****
-![Overall task list planning with Todo Tree extensions in VSCode](/docs/todo-tree1.png)  
-![This is an image of your task planning](This is the relative path to it)  
-![This is an image of your task planning](This is the relative path to it)  
+The advantage to using this extension is that it provides a quick way to access parts of the file that are flagged using the code tagging method. A count of the remaining flagged items is also provided to right of each filename contating the tags.
+
+![Todo-Tree extension menu containing files and their code tag counts](/docs/todo-tree-03.png)  
+
+In each of the two examples below, the selected item in the extension's list is also highlighted in the content of the file. Each code tag item also is highlighted in an inverted color for quick syntax reference.
+
+![Overall task list planning in the Toto-Tree extension navigation pane](/docs/todo-tree-01.png)  
+***Todo-Tree showing general tasks listed in the README.md file (implemented using hidden code tagging***
+
+
+![Incomplete checkbox items in the Toto-Tree extension navigation pane](/docs/todo-tree-02.png)  
+***Todo-Tree extension showing unchecked items from the README.md file***
+
 ![This is an image of your task planning](This is the relative path to it)  
 
 * Shows significant planning for how tasks are planned and tracked, including a full description of the process and of the tools used
