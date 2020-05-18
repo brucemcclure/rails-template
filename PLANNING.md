@@ -18,12 +18,12 @@ Each time you have completed a requirement check it off the list. This way it wi
 - [ ] 9. I have provided a link (URL) to my deployed app (i.e. website)
 - [x] 10. I have provided a link to my GitHub repository (repo). I have ensured the repo is accessible by my Educators.
 - [ ] 11. I have a complete description of my marketplace app (website), including:  
-        - 11.1 Purpose  
-        - 11.2 Functionality / features  
-        - 11.3 Sitemap  
-        - 11.4 Screenshots  
-        - 11.5 Target audience  
-        - 11.6 Tech stack (e.g. html, css, deployment platform, etc)  
+  - [ ] 11.1 Purpose  
+  - [ ] 11.2 Functionality / features  
+  - [ ] 11.3 Sitemap  
+  - [ ] 11.4 Screenshots  
+  - [ ] 11.5 Target audience  
+  - [ ] 11.6 Tech stack (e.g. html, css, deployment platform, etc)  
 
 - [ ] 12. I have provided user stories for my app
 - [ ] 13. I have provided Wire-Frames for my app 
@@ -43,7 +43,7 @@ NB Slide/Presentation specific requirements
 
 ## Code specific Checklist
 
-This section can be used as a *post-build/deploy checklist* to ensure all details of the assignment requirements have been met.
+This section can be used as a *post-build/deploy checklist* to ensure all details of the assesment requirements have been met.
 
 ##### 11. Model implementation represents a normalised database model
 
