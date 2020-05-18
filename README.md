@@ -63,11 +63,11 @@ The high level components required for this app are:
 
 ###### Image content storage: Amazon S3 Bucket
 
-[TODO]
+<!-- #TODO Doc: Describe usage of S3 Bucket -->
 
-###### Geocoding Services: Google Maps API
+###### Geocoding Services: Google Maps API usage with Geocoder Rails Gem
 
-[TODO]
+<!-- #TODO Doc: Describe usage of Google Maps API using Geocoder gem-->
 
 ##### 3.1. Identify the problem you’re trying to solve by building this particular marketplace App
 
@@ -85,21 +85,26 @@ This is a problem that will provide a unique marketplace opportunity for this to
 
 ##### 4. Describe your project’s models in terms of the relationships (active record associations) they have with each other
 
-* Complete discussion of the project’s models with an understanding of how its active record associations function
+<!-- #TODO Doc: Complete discussion of the project’s models with an understanding of how its active record associations function -->
+
 
 ##### 5. Discuss the database relations to be implemented
 
+<!-- #TODO Doc: ERD DB Relationship table -->
 ![This is an image of your ERD](This is the relative path to it)
 
+<!-- #TODO Doc: ERD Explanation -->
 * Provides coherent discussion of the database relations, with reference to the ERD
 
 
 ##### 6. Provide your database schema design
 
+<!-- #TODO Doc: DB Schema design -->
 * Flawless, complex, complete, and well thought through ERDs provided
 
 ##### 7. Provide User stories for your App
 
+<!-- #TODO Doc: 5 User Stories -->
 ![This is an image of your user stories](This is the relative path to it)
 
 * You also just use normal markdown to describe them
@@ -107,6 +112,7 @@ This is a problem that will provide a unique marketplace opportunity for this to
 
 ##### 8. Provide Wireframes for your App
 
+<!-- #TODO -Doc: 5 (min) Wireframes -->
 ![This is an image of your wire frames](This is the relative path to it)  
 ![This is an image of your wire frames](This is the relative path to it)  
 ![This is an image of your wire frames](This is the relative path to it)  
@@ -117,18 +123,20 @@ This is a problem that will provide a unique marketplace opportunity for this to
 
 ##### 9. Describe the way tasks are planned and tracked in your project
 
-![This is an image of your task planning](This is the relative path to it)
-![This is an image of your task planning](This is the relative path to it)
-![This is an image of your task planning](This is the relative path to it)
-![This is an image of your task planning](This is the relative path to it)
+Tasks were planned and managed using a checklist in this README.md file and by code tagging with the source files. A regular review of incomplete items was carried out with a VS Code extension called [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree&ssr=false#overview)
+
+***Todo List showing unchecked items from the README.md file****
+![Overall task list planning with Todo Tree extensions in VSCode](/docs/todo-tree1.png)  
+![This is an image of your task planning](This is the relative path to it)  
+![This is an image of your task planning](This is the relative path to it)  
+![This is an image of your task planning](This is the relative path to it)  
 
 * Shows significant planning for how tasks are planned and tracked, including a full description of the process and of the tools used
 
 ##### 10. ERD provided represents a normalised database model
 
+<!-- #TODO Doc: ERD DB Model with no duplication and ideal definition of entities-->
 ![This is an image of your ERD](This is the relative path to it)
-
-* Meets D with no duplication and ideal definition of entities
 
 ## Section 3: Code specific assessment
 
@@ -136,34 +144,42 @@ This section can be deleted from the readme. I have only included it here to dra
 
 ##### 11. Model implementation represents a normalised database model
 
-* Meets D with no duplication and ideal model implementation
+
+- [ ] Meets D with no duplication and ideal model implementation
 
 ##### 12. Model implementation represents a normalised database model
 
-* Meets D and represents a highly optimised solution
+
+- [ ] Meets D and represents a highly optimised solution
 
 ##### 13. Implemented controllers demonstrate correct use of commands to query the database infrastructure
 
-* Meets D and does so elegantly (queries chosen are the most elegant to achieve the result)
+
+- [ ] Meets D and does so elegantly (queries chosen are the most elegant to achieve the result)
 
 ##### 14. Queries implemented provide correct data for the given scenario
 
-* Meets CR and demonstrates exceptional understanding of database queries
+
+- [ ] Meets CR and demonstrates exceptional understanding of database queries
 
 ##### 15. Code comments demonstrate how the queries implemented correctly represent the database structure
 
-* Meets D and all comments are exceptionally written
+
+- [ ] Meets D and all comments are exceptionally written
 
 ##### 16. Identify and use appropriate model methods
 
-* Identifies and uses appropriate model methods for querying on self and its relationships, extends models scope where appropriate
+
+- [ ] Identifies and uses appropriate model methods for querying on self and its relationships, extends models scope where appropriate
 
 ##### 17. Minimising database calls needed to perform an action
 
-* Minimise all database calls and implement eager loading where appropriate
+
+- [ ] Minimise all database calls and implement eager loading where appropriate
 
 ##### 18. Sanitise and validates input to maintain data integrity
 
-* Validates and sanitises all input
+
+- [ ] Validates and sanitises all input
 
 
