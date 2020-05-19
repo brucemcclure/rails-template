@@ -2,11 +2,11 @@
 
 ## External Links
 
-|Description |Link|
-|:---|:---|
-|Link to the deployed app: |TBA  |
-|Link to github repo: |https://github.com/evey-pea/hugs.git |
-|Planning of Build and Assesment Criteria: |[PLANNING.md](https://github.com/evey-pea/rails-template/blob/master/PLANNING.md)|
+| Description                               | Link                                                                              |
+| :---------------------------------------- | :-------------------------------------------------------------------------------- |
+| Link to the deployed app:                 | TBA                                                                               |
+| Link to github repo:                      | https://github.com/evey-pea/hugs.git                                              |
+| Planning of Build and Assesment Criteria: | [PLANNING.md](https://github.com/evey-pea/rails-template/blob/master/PLANNING.md) |
 
 ## Documentation
 
@@ -55,8 +55,7 @@ This is a problem that will provide a unique marketplace opportunity for this to
 
 ### 5. Discuss the database relations to be implemented
 
-<!-- #TODO Doc: ERD DB Relationship table -->
-![This is an image of your ERD](This is the relative path to it)
+![Application database ERD](/docs/Hugs_DB_ERD.jpeg)
 
 <!-- #TODO Doc: ERD Explanation -->
 * Provides coherent discussion of the database relations, with reference to the ERD
